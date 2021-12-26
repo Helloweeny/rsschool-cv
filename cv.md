@@ -24,13 +24,12 @@ Creativity
 Time Management
 Adaptability
 Code sample
-function multiply(a, b){ return a * b }
+(https://www.codewars.com/users/Helloweeny): function multiply(a, b){ return a * b }
 Experience:
-https://github.com/Helloweeny/resume-GoIT.git
-https://github.com/Helloweeny/djedai-GoIT.git
-https://vyshyvalochka.com.ua/, https://kostumlandia.com/
-https://kievpeshkom.wordpress.com/
-https://darime4tu.com.ua/
+[GoIT 7 day marathon in HTML:](https://github.com/Helloweeny/resume-GoIT.git)
+[GoIT 7 day marathon in HTML/CSS:](https://github.com/Helloweeny/djedai-GoIT.git)
+[OcStore home business project:](https://vyshyvalochka.com.ua/), [OcStore home business project:](https://kostumlandia.com/)
+[Wordpress](https://kievpeshkom.wordpress.com/), [Wordpress](https://darime4tu.com.ua/)
 Education:
 Gorlovka State Pedagogical Institute for Foreign Languages
 English Language and Foreign Literature, Applied Psychology
@@ -38,6 +37,6 @@ September 1998 - July 2003 Ukraine
 Pre-Azov State Technical University, MariupolMarketing
 September 2006 - July 2009 Ukraine
 Languages:
-English 
-Polish 
-German, French 
+English (B2+/C1, everyday business correspondence, contracts, business/everyday talk)
+Polish (B2, everyday business correspondence)
+German, French (basic knowledge, everyday improvement)
