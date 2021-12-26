@@ -23,7 +23,7 @@ Discord: Viktor.Zavadskyy (@Helloweeny)
 5. Git (basic knowledge)
 
 ### Soft Skills:
-1. English B2
+1. English Speaking B2 / Writing C1
 2. Teamwork
 3. Self-organization
 4. Creativity
@@ -46,11 +46,11 @@ Discord: Viktor.Zavadskyy (@Helloweeny)
 
 ### Education:
 1. **Gorlovka State Pedagogical Institute for Foreign Languages**
-*_English Language and Foreign Literature, Applied Psychology_*
+_English Language and Foreign Literature, Applied Psychology_
 September 1998 - July 2003 Ukraine
 
 2. **Pre-Azov State Technical University, Mariupol**
-*_Marketing_*
+_Marketing_
 September 2006 - July 2009 Ukraine
 
 ### Languages:
