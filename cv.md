@@ -3,11 +3,11 @@
 # Viktor Zavadskyy
 Tel: +380997881838
 
-E-mail: viktor.zavadskyy@gmail.com
+E-mail: viktor.zavadskyy@gmail.com\
 
-Discord: Viktor.Zavadskyy (@Helloweeny)
+Discord: Viktor.Zavadskyy (@Helloweeny)\
 
-> I am a persistently hardworking person who lives by personal targets.
+> I am a persistently hardworking person who lives by personal targets.\
 
 #### 16 years in export sales:
     * 2005-2010 chemicals
@@ -31,8 +31,10 @@ Discord: Viktor.Zavadskyy (@Helloweeny)
     5. Time Management
     6. Adaptability
 
-### Code sample 
+### Code sample
+
 (https://www.codewars.com/users/Helloweeny):
+
 ```function multiply(a, b){
  return a * b
 }
@@ -42,16 +44,16 @@ Discord: Viktor.Zavadskyy (@Helloweeny)
 
     * [GoIT 7 day marathon in HTML:](https://github.com/Helloweeny/resume-GoIT.git)
     * [GoIT 7 day marathon in HTML/CSS:](https://github.com/Helloweeny/djedai-GoIT.git)
-    * [OcStore home business project:](https://vyshyvalochka.com.ua/), [OcStore home business project:](https://kostumlandia.com/)
-    * [Wordpress](https://kievpeshkom.wordpress.com/), [Wordpress](https://darime4tu.com.ua/)
+    * [OcStore home business project:](https://vyshyvalochka.com.ua), [OcStore home business project:](https://kostumlandia.com)
+    * [Wordpress](https://kievpeshkom.wordpress.com), [Wordpress](https://darime4tu.com.ua)
 
 ### Education:
-    1. Gorlovka State Pedagogical Institute for Foreign Languages
-        English Language and Foreign Literature, Applied Psychology
+    1. *Gorlovka State Pedagogical Institute for Foreign Languages*
+        **English Language and Foreign Literature, Applied Psychology**
         September 1998 - July 2003 Ukraine
 
-    2. Pre-Azov State Technical University, Mariupol
-        Marketing
+    2. *Pre-Azov State Technical University, Mariupol*
+        **Marketing**
         September 2006 - July 2009 Ukraine
 
 ### Languages:
