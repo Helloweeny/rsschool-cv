@@ -45,13 +45,13 @@ Discord: Viktor.Zavadskyy (@Helloweeny)
 - [Wordpress](https://kievpeshkom.wordpress.com), [Wordpress](https://darime4tu.com.ua)
 
 ### Education:
-1. **Gorlovka State Pedagogical Institute for Foreign Languages**
+1.\ **Gorlovka State Pedagogical Institute for Foreign Languages**
 
 _English Language and Foreign Literature, Applied Psychology_
 
 September 1998 - July 2003 Ukraine
 
-2. **Pre-Azov State Technical University, Mariupol**
+2.\ **Pre-Azov State Technical University, Mariupol**
 
 _Marketing_
 
