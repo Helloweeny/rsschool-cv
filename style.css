@@ -1,116 +1,117 @@
-    @media (max-width: 768px) {
-        .section {
-            width: 100%;
-        }
-    }
-    
-    nav {
-        display: block;
-    }
-    
-    html {
-        scroll-behavior: smooth;
-    }
-    
-    body {
-        font-family: 'Roboto', sans-serif;
-        min-height: 100vh;
-        margin: 0;
-        padding: 0;
-        display: flex;
-        flex-direction: column;
-        justify-content: space-between;
-        font-size: 18px;
-        font-weight: 400;
-        line-height: 1.5;
-        color: #4d2323;
-    }
-    
-    * {
-        box-sizing: border-box;
-    }
-    
+@media screen and (max-width: 650px) {
     .nav-list {
-        list-style: none;
+        align-self: stretch;
+        flex-direction: column;
     }
-    
-    .nav-link {
-        padding: 0 20px;
-        line-height: 50px;
-        transition: .3s;
-        cursor: pointer
-    }
-    
-    .link {
-        text-decoration: none;
-        color: #829985;
-        transition: color 0.5s;
-    }
-    
-    .link:hover {
-        color: #5d7260;
-    }
-    
-    .section-item a {
-        color: #829985;
-        text-decoration: none;
-        transition: color 0.5s;
-    }
-    
-    .section-item a:hover {
-        color: #4d2323;
-    }
-    
-    .superman {
-        font-size: 28px;
-        font-weight: 900;
-        text-transform: uppercase;
-        letter-spacing: 5px;
-        color: #596a5b;
-    }
-    
-    .section-title {
-        font-size: 20px;
-        font-weight: 600;
-        text-transform: uppercase;
-        letter-spacing: 5px;
-        color: #829985;
-    }
-    
-    .section-under-title {
-        font-size: 18px;
-        font-weight: 300;
-        text-transform: lowercase;
-    }
-    
-    .quote {
-        font-size: 18px;
-        font-weight: 300;
-        text-transform: uppercase;
-    }
-    
-    .container {
-        max-width: 1440px;
-        margin: 0 auto;
-    }
-    
-    .main-container {
-        display: flex;
-        flex-wrap: wrap;
-    }
-    
-    .section {
-        width: 50%;
-    }
-    
-    .header {
-        border: 1px solid red;
-    }
-    
-    .main {
-        border: 1px solid red;
-    }
-    
-    .footer {
-        border: 1px solid red;
-    }
+}
+
+nav {}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    font-family: 'Roboto', sans-serif;
+    min-height: 100vh;
+    margin: 40px;
+    padding: 0;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #4d2323;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.nav-list {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+}
+
+.nav-link {
+    padding: 0 20px;
+    line-height: 50px;
+    transition: .3s;
+    cursor: pointer
+}
+
+.link {
+    text-decoration: none;
+    color: #829985;
+    transition: color 0.5s;
+}
+
+.link:hover {
+    color: #5d7260;
+}
+
+.section-item a {
+    color: #829985;
+    text-decoration: none;
+    transition: color 0.5s;
+}
+
+.section-item a:hover {
+    color: #4d2323;
+}
+
+.superman {
+    font-size: 28px;
+    font-weight: 900;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    color: #596a5b;
+}
+
+.about-me {}
+
+.section-title {
+    font-size: 20px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    color: #829985;
+}
+
+.section-under-title {
+    font-size: 18px;
+    font-weight: 300;
+    text-transform: lowercase;
+}
+
+.quote {
+    font-size: 18px;
+    font-weight: 300;
+    text-transform: uppercase;
+}
+
+.container {
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+.section {
+    width: 50%;
+}
+
+.header {}
+
+.main {}
+
+.footer {}
+
+.copyright,
+.rsschool-img,
+.github-link {}
+
+.footer img {
+    height: 60px;
+}
