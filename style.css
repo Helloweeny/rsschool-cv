@@ -6,8 +6,6 @@
     }
 }
 
-nav {}
-
 html {
     scroll-behavior: smooth;
 }
@@ -92,8 +90,6 @@ body {
     margin-bottom: 20px;
 }
 
-.about-me {}
-
 .section-title {
     font-size: 20px;
     font-weight: 600;
@@ -123,10 +119,6 @@ body {
     width: 50%;
 }
 
-.header {}
-
-.main {}
-
 .footer {
     display: flex;
     flex-direction: row;
@@ -141,8 +133,6 @@ body {
 .rsschool-img {
     margin-right: 80px;
 }
-
-.github-link {}
 
 .footer img {
     height: 60px;

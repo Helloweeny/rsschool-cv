@@ -1,5 +1,5 @@
 ## Front-End Developer
-![Viktor Zavadskyy photo](photo.jpg)
+![Viktor Zavadskyy photo](./img/photo.jpg)
 # Viktor Zavadskyy
 
 Tel: +380997881838
