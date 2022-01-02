@@ -1,7 +1,8 @@
-@media screen and (max-width: 650px) {
-    .nav-list {
-        align-self: stretch;
+@media screen and (max-width: 600px) {
+    .top,
+    .footer {
         flex-direction: column;
+        align-self: stretch;
     }
 }
 
@@ -12,9 +13,7 @@ html {
 }
 
 body {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
+    width: 100%;
     font-family: 'Roboto', sans-serif;
     min-height: 100vh;
     margin: 40px;
@@ -33,7 +32,9 @@ body {
     list-style: none;
     display: flex;
     flex-direction: row;
-    justify-content: start;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: wrap;
 }
 
 .nav-link {
@@ -41,6 +42,13 @@ body {
     line-height: 50px;
     transition: .3s;
     cursor: pointer
+}
+
+.top {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-wrap: wrap;
 }
 
 .link {
@@ -69,6 +77,19 @@ body {
     text-transform: uppercase;
     letter-spacing: 5px;
     color: #596a5b;
+}
+
+.about-me-section {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    align-content: flex-start;
+}
+
+.photo {
+    margin-right: 20px;
+    margin-bottom: 20px;
 }
 
 .about-me {}
@@ -106,10 +127,21 @@ body {
 
 .main {}
 
-.footer {}
+.footer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+}
 
-.copyright,
-.rsschool-img,
+.copyright {
+    margin-right: 80px;
+}
+
+.rsschool-img {
+    margin-right: 80px;
+}
+
 .github-link {}
 
 .footer img {
