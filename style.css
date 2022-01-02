@@ -1,0 +1,149 @@
+@media screen and (max-width: 600px) {
+    .top,
+    .footer {
+        flex-direction: column;
+        align-self: stretch;
+    }
+}
+
+nav {}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    width: 100%;
+    font-family: 'Roboto', sans-serif;
+    min-height: 100vh;
+    margin: 40px;
+    padding: 0;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #4d2323;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.nav-list {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.nav-link {
+    padding: 0 20px;
+    line-height: 50px;
+    transition: .3s;
+    cursor: pointer
+}
+
+.top {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
+
+.link {
+    text-decoration: none;
+    color: #829985;
+    transition: color 0.5s;
+}
+
+.link:hover {
+    color: #5d7260;
+}
+
+.section-item a {
+    color: #829985;
+    text-decoration: none;
+    transition: color 0.5s;
+}
+
+.section-item a:hover {
+    color: #4d2323;
+}
+
+.superman {
+    font-size: 28px;
+    font-weight: 900;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    color: #596a5b;
+}
+
+.about-me-section {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    align-content: flex-start;
+}
+
+.photo {
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+.about-me {}
+
+.section-title {
+    font-size: 20px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    color: #829985;
+}
+
+.section-under-title {
+    font-size: 18px;
+    font-weight: 300;
+    text-transform: lowercase;
+}
+
+.quote {
+    font-size: 18px;
+    font-weight: 300;
+    text-transform: uppercase;
+}
+
+.container {
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+.section {
+    width: 50%;
+}
+
+.header {}
+
+.main {}
+
+.footer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.copyright {
+    margin-right: 80px;
+}
+
+.rsschool-img {
+    margin-right: 80px;
+}
+
+.github-link {}
+
+.footer img {
+    height: 60px;
+}
